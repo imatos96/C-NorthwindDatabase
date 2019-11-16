@@ -1,0 +1,32 @@
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.exe.config
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\bin\Debug\Northwind.MDB
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.exe
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.pdb
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csprojResolveAssemblyReference.cache
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.Form1.resources
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.Properties.Resources.resources
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csproj.GenerateResource.Cache
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.exe
+d:\student\documents\visual studio 2015\Projects\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.pdb
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\bin\Debug\Northwind.MDB
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.exe.config
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.exe
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.pdb
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.Form1.resources
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.Properties.Resources.resources
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csproj.GenerateResource.Cache
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.exe
+C:\Users\VOVA\Desktop\oop pr5,pr6 i lv4\lv4_oop_matos\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.pdb
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\bin\Debug\Northwind.MDB
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.exe.config
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.exe
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\bin\Debug\lv4_oop_matos.pdb
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.Form1.resources
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.Properties.Resources.resources
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csproj.GenerateResource.Cache
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.exe
+C:\Users\VOVA\Desktop\lv4_oop_matosfinalinsertNot\lv4_oop_matos\lv4_oop_matos\obj\Debug\lv4_oop_matos.pdb
